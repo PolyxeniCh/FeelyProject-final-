@@ -1,0 +1,49 @@
+package Feely;
+/*
+ * Η κλάση αποτελεί ένα αντικείμενο τύπου : Ταινία
+ */
+
+import java.util.ArrayList;
+
+
+@SuppressWarnings("serial")
+public class Movie extends Category {
+
+
+	private String IMDBLink;                                        //Link ταινίας στο IMDB
+	private ArrayList<String> genre = new ArrayList<String>();      //Είδη στα οποία ανήκει η ταινία
+
+
+	public Movie(String title, String link, String IMDBLink) {
+		super(title, link);
+		this.IMDBLink = IMDBLink;
+	}
+
+
+	// ---------- GETTERS ----------
+
+	public String getIMDBLink() {
+		return IMDBLink;
+	}
+
+	public ArrayList<String> getGenre() {
+		return genre;
+	}
+
+	// ------------------------------
+
+
+
+	// ---------- SETTERS ----------
+
+	public void setIMDBLink(String iMDBLink) {
+		this.IMDBLink = iMDBLink;
+	}
+
+	public void setGenre(ArrayList<String> genre) {
+		this.genre = genre;
+	}
+
+	// ------------------------------
+
+}

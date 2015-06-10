@@ -1,0 +1,49 @@
+package Feely;
+/*
+ * Η κλάση αποτελεί ένα αντικείμενο τύπου : Τηλεοπτική Σειρά
+ */
+
+import java.util.ArrayList;
+
+
+@SuppressWarnings("serial")
+public class TvSeries extends Category {
+
+
+	private String IMDBLink;                                       //Link για την τηλεοπτική σειρά στο IMDB
+	private ArrayList<String> genre = new ArrayList<String>();     //Είδη στα οποία ανήκει η τηλεοπτική σειρά
+
+
+	public TvSeries(String title, String link, String IMDBLink) {
+		super(title, link);
+		this.IMDBLink = IMDBLink;
+	}
+
+
+	// ---------- GETTERS ----------
+
+	public String getIMDBLink() {
+		return IMDBLink;
+	}
+
+	public ArrayList<String> getGenre() {
+		return genre;
+	}
+
+	// ------------------------------
+
+
+
+	// ---------- SETTERS ----------
+
+	public void setIMDBLink(String iMDBLink) {
+		this.IMDBLink = iMDBLink;
+	}
+
+	public void setGenre(ArrayList<String> genre) {
+		this.genre = genre;
+	}
+
+	// ------------------------------
+
+}

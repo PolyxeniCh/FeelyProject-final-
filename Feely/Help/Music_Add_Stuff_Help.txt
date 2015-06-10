@@ -1,0 +1,17 @@
+Add data to Music :
+
+You can add a new song 
+by filling in the 
+appropriate fields.
+Title : The original 
+title of the song.
+Artist : The artist 
+who performs the song.
+Song's Link: An internet 
+link to the song.
+Genre : The music genre.
+Choose Mood : The mood 
+that best suits the music.
+
+Warning : You must correctly 
+fill in all the fields!

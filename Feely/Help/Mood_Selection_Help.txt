@@ -1,0 +1,9 @@
+Choose your mood :
+
+Set your current mood 
+and choose the categories 
+in which you want to see 
+suggestions.
+
+Warning : You must choose 
+at least one category!

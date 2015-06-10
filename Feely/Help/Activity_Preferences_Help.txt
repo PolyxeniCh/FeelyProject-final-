@@ -1,0 +1,10 @@
+Edit Activity Preferences :
+
+What kind of Activities do 
+you prefer?
+Check the boxes that correspond
+to your interests in activity intensity.
+
+Warning : You must choose at least one! 
+Otherwise no results will be shown for 
+the category.

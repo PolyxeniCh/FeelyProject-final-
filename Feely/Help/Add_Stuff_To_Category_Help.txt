@@ -1,0 +1,4 @@
+Add Stuff to a Category :
+
+Choose the category in 
+which you want to add data.

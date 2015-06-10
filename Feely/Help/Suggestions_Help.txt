@@ -1,0 +1,8 @@
+Suggestions :
+
+In order to see the 
+suggestions for a category, 
+choose the corresponding tab.
+You can add data to a 
+category by clicking 
+the "+Add" button.

@@ -1,0 +1,11 @@
+Edit Movie Preferences:
+
+What kind of movies do 
+you watch?
+Check the boxes that correspond 
+to your interests in movie genres.
+
+Warning : You must choose at 
+least one! 
+Otherwise no results will be 
+shown for the category.

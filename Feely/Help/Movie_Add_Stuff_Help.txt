@@ -1,0 +1,19 @@
+Add data to Movies :
+
+You can add a new movie 
+by filling in the 
+appropriate fields.
+Title : The original 
+title of the movie.
+Trailer : A link to the 
+trailer of the movie.
+IMDB : The IMDB link, 
+from http://www.imdb.com/
+Genre : The type of the 
+movie.
+Choose Mood : The mood 
+that best suits the 
+movie.
+
+Warning : You must correctly 
+fill all the fields!

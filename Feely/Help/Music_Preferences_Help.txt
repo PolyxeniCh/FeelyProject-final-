@@ -1,0 +1,12 @@
+Edit Music Preferences:
+
+What kind of music do 
+you prefer?
+Check the boxes that 
+correspond to your 
+interests in music genres.
+
+Warning : You must choose at 
+least one! 
+Otherwise no results will 
+be shown for the category.

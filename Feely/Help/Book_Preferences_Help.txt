@@ -1,0 +1,12 @@
+Edit Book Preferences:
+
+What kind of books do 
+you read?
+Check the boxes that 
+correspond to your 
+interests in book genres.
+
+Warning : You must choose 
+at least one! Otherwise 
+no results will be 
+shown for the category.

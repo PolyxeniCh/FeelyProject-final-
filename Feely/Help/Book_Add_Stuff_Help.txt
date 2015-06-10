@@ -1,0 +1,19 @@
+Add data to Books :
+
+You can add a new book 
+by filling in the 
+appropriate fields.
+Title : The original 
+title of the book.
+Author : The author 
+of the book.
+Link : An internet link 
+to information about 
+the book.
+Genre : The type of 
+the book.
+Choose Mood : The mood 
+that best suits the book.
+
+Warning : You must correctly 
+fill in all the fields!

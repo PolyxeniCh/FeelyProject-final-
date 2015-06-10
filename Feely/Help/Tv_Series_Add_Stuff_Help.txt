@@ -1,0 +1,17 @@
+Add data to TV Series :
+
+You can add a new TV series
+by filling in the appropriate 
+fields.
+Title : The original title
+of the TV series.
+Trailer : An internet link 
+to the trailer of the TV series.
+IMDB : The IMDB link, from 
+http://www.imdb.com/
+Genre : The type of the series.
+Choose Mood : The mood that 
+best suits the series.
+
+Warning : You must correctly 
+fill in all the fields!

@@ -1,0 +1,10 @@
+Edit TV Series Preferences:
+
+What kind of TV series do 
+you watch?
+Check the boxes that correspond 
+to your interests in TV series genres.
+
+Warning : You must choose at least one! 
+Otherwise no results will be shown for 
+the category.

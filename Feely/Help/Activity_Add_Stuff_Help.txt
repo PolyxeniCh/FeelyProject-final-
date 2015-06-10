@@ -1,0 +1,12 @@
+Add data to Activities :
+
+You can add a new activity by 
+filling in the appropriate fields.
+Title : The name of the activity.
+Intensity : The intensity of the 
+activity.
+Choose Mood : The mood that best 
+suits the activity.
+
+Warning : You must correctly fill
+in all the fields!

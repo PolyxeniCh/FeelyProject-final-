@@ -1,0 +1,17 @@
+Add data to Destinations :
+
+You can add a new 
+destination by filling 
+the appropriate fields.
+Name : The name of 
+the destination.
+Link : A link to Google Maps,
+containing the location 
+of the destination.
+Category : The category 
+of the destination.
+Choose Mood : The mood that 
+best suits the destination.
+
+Warning : You must correctly 
+fill in all the fields!
